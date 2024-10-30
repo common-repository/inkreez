@@ -1,0 +1,10 @@
+#toplevel_page_inkreez_plugin img {
+    width: 20px !important;
+    height: 20px !important;
+    padding: 0 !important;
+}
+#toplevel_page_inkreez_plugin .wp-menu-image {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
